@@ -1,0 +1,5 @@
+This is a Weather Forecast Application made in python using tkinter,request and pillow libraries. Tkinter library as usual is used to create a GUI ,the request library is used to make the api request to show the forecast of any city (you can even change the unit of the temperature) and pillow library is use to insert a background image.
+
+I have used openweathermap.org to get the api and the weather key if it shows some error then it would might be the case that i have destroyed the the key but you can just create your own by simply cerating the free account.
+
+Hope it would help :)
